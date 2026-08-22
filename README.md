@@ -1,182 +1,292 @@
-<!-- ====================== -->
-<!--      HEADER BANNER     -->
-<!-- ====================== -->
+<!-- ========================================================= -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=24,12,20,30&text=SK%20ISMAIL&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20|%20Machine%20Learning%20|%20Python&descAlignY=58&descSize=18"/>
-</p>
+<!--                    SK ISMAIL | GITHUB                     -->
 
-<h1 align="center">Hi 👋, I'm SK ISMAIL</h1>
+<!-- ========================================================= -->
 
-<h3 align="center">
-📊 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast | 🎓 MCA Student
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast;Machine+Learning+Learner;Python+Developer;SQL+Developer;Power+BI+%7C+Tableau;Building+Real+World+Projects;Open+to+Internships;Always+Learning+Something+New"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=SK%20ISMAIL&fontSize=58&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20MACHINE%20LEARNING%20%7C%20PYTHON&descAlignY=60&descSize=17&animation=fadeIn&color=gradient" width="100%"/>
 
----
+<br/>
 
-# 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Insights;Building+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+Enthusiast;Always+Learning.+Always+Building." />
 
-🎓 MCA Student
+<br/><br/>
 
-📊 Passionate about Data Analytics
+<a href="https://github.com/skismailkhan256-source">
+<img src="https://img.shields.io/badge/GitHub-SK%20ISMAIL-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/sk-ismail-738bb736a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:skismailkhan256@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🤖 Exploring Machine Learning & AI
+<br/><br/>
 
-🐍 Python Developer
+<img src="https://komarev.com/ghpvc/?username=skismailkhan256-source&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 
-🗄️ SQL Enthusiast
-
-📈 Building dashboards using Power BI & Tableau
-
-🚀 Building real-world projects to improve my skills
-
-🌱 Currently learning Deep Learning and AWS Cloud
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+## 👋 About Me
 
-<p align="center">
+```text
+I’m SK ISMAIL — an MCA student focused on Data Analytics and Machine Learning.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,java,aws"/>
+I enjoy turning raw data into meaningful insights, interactive dashboards,
+and practical machine-learning solutions.
 
-</p>
+Currently building my skills through real-world projects, analytical
+problem solving, and consistent hands-on practice.
+```
+
+🎓 **MCA — Centurion University, Bhubaneswar**
+📊 **Data Analytics & Machine Learning Focus**
+🐍 **Python | SQL | Data Analysis**
+📈 **Power BI | Tableau | Excel**
+🤖 **Machine Learning | Scikit-learn**
+💻 **Java | C | Git & GitHub**
+
+> **My approach:** Learn → Build → Analyze → Improve
 
 ---
 
-# 📊 Data Analytics Tools
+## 🧠 What I Work With
 
-<p align="center">
+### 💻 Programming
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
 
+### 📊 Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+### 🤖 Machine Learning
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Work
 
-🎬 Movie Recommendation System
+> A selection of projects that represent what I'm currently learning and building.
 
-📊 Tableau Dashboards
+### 📊 Clipkart Sales Analytics — Power BI
 
-📈 Power BI Dashboards
+**Business-focused e-commerce analytics dashboard**
 
-🐍 Python Practice Repository
+* Cleaned and transformed raw sales data using Power Query
+* Built an interactive Power BI dashboard
+* Created **5+ business KPIs**
+* Analyzed revenue, orders, quantity and average order value
+* Identified category, product and regional performance
 
-🗄️ SQL Practice Repository
-
-📑 Microsoft Excel Practice
-
-🤖 Machine Learning Predictive Analytics
-
----
-
-# 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Advanced SQL
-- Power BI
-- Tableau
-- AWS Cloud
+🔗 **[View Repository](https://github.com/skismailkhan256-source/Clipkart-Sales-Analytics-PowerBI)**
 
 ---
 
-# 📈 GitHub Stats
+### 🎬 Movie Recommendation System
 
-<p align="center">
+**Personalized recommendation engine using Machine Learning**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=skismailkhan256-source&show_icons=true&theme=tokyonight"/>
+* Built using the **K-Nearest Neighbors (KNN)** algorithm
+* Processed **4,000+ movie records**
+* Performed data preprocessing and similarity analysis
+* Integrated an external movie API
+* Generates **Top 5 personalized recommendations**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skismailkhan256-source&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=skismailkhan256-source&theme=tokyonight"/>
-
-</p>
+🔗 **[View Repository](https://github.com/skismailkhan256-source/Movie-Recomendation-System)**
 
 ---
 
-# 🏆 GitHub Trophies
+### 🤖 Machine Learning — Predictive Analytics
 
-<p align="center">
+Machine-learning practice and predictive analytics implementations covering:
 
-<img src="https://github-profile-trophy.vercel.app/?username=skismailkhan256-source&theme=tokyonight&no-frame=true&row=1&column=6"/>
+`Regression` · `Classification` · `Decision Tree` · `Random Forest` · `K-Means` · `Model Evaluation`
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skismailkhan256-source&theme=tokyo-night"/>
-
-</p>
+🔗 **[View Repository](https://github.com/skismailkhan256-source/Machine-Learning-Predictive-Analytics)**
 
 ---
 
-# 🎯 2026 Goals
+## 📚 My Learning Repositories
 
-✅ Become a Data Analyst
-
-✅ Master Python
-
-✅ Master SQL
-
-✅ Build 20+ Data Analytics Projects
-
-✅ Improve Machine Learning Skills
-
-✅ Crack a Good Placement
+| Area               | Repository                                                                                     |
+| ------------------ | ---------------------------------------------------------------------------------------------- |
+| 🐍 Python          | [Python-practice](https://github.com/skismailkhan256-source/Python-practice)                   |
+| 🗄️ SQL            | [SQL-Practice](https://github.com/skismailkhan256-source/SQL-Practice)                         |
+| 📊 Power BI        | [power-bi-data-analytics](https://github.com/skismailkhan256-source/power-bi-data-analytics)   |
+| 📈 Tableau         | [Tableau-Practice](https://github.com/skismailkhan256-source/Tableau-Practice)                 |
+| 📗 Excel           | [Microsoft-Excel-Practice](https://github.com/skismailkhan256-source/Microsoft-Excel-Practice) |
+| 🧩 DSA / Coding    | [Leetcode-solutions](https://github.com/skismailkhan256-source/Leetcode-solutions)             |
+| 🌐 Web Development | [Web-Development-Practice](https://github.com/skismailkhan256-source/Web-Development-Practice) |
 
 ---
 
-# 📫 Connect With Me
+# 💼 Experience
 
-📧 Email: **YOUR_EMAIL@gmail.com**
+### Data Analytics Intern
 
-💼 LinkedIn: **YOUR_LINKEDIN_URL**
+**Central Tool Room & Training Centre (CTTC), Bhubaneswar**
 
-📍 Odisha, India 🇮🇳
+`May 2025 — June 2025`
+
+* Processed and organized **5,000+ records**
+* Improved data accuracy and consistency
+* Created Excel macro-driven templates for recurring reports
+* Reduced manual reporting preparation time
+* Developed reports and interactive dashboards
+* Presented analytical findings for non-technical audiences
+* Collaborated with a cross-functional team
 
 ---
 
-<p align="center">
+# 🎓 Education
 
-<img src="https://komarev.com/ghpvc/?username=skismailkhan256-source&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### Master of Computer Applications — MCA
 
-</p>
+**Centurion University, Bhubaneswar**
+`2025 — 2027` · **CGPA: 8.35 / 10**
+
+### Bachelor of Science — Botany Honours
+
+**A.P. College, Raruan, Mayurbhanj**
+`2022 — 2025` · **74.36%**
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+# 📜 Certifications & Learning
 
-<p align="center">
-<i>"Learning today. Building tomorrow."</i>
-</p>
+* 📊 Data Analytics Training / Internship — **CTTC**
+* 📈 30 Days Power BI Micro Course — **SkillCourse**
+* 📗 Microsoft Excel Beginners to Advance — **SkillCourse**
+* 🗄️ 30 Days SQL Micro Course — **SkillCourse**
+* 🤖 The AI MasterClass — **Dhruv Rathee Academy**
+
+### Currently Learning
+
+`Advanced SQL` · `Machine Learning` · `Data Visualization` · `Power BI` · `Deep Learning`
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=skismailkhan256-source&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skismailkhan256-source&layout=compact&hide_border=true&theme=tokyonight" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=skismailkhan256-source&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=skismailkhan256-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skismailkhan256-source&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Focus
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                  2026 LEARNING FOCUS                 │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ████████████████████░░  Data Analytics              │
+│  ██████████████████░░░░  Python & SQL                │
+│  █████████████████░░░░░  Power BI & Tableau          │
+│  ███████████████░░░░░░░  Machine Learning            │
+│  ████████████░░░░░░░░░░  Deep Learning               │
+│                                                      │
+│             BUILD → LEARN → IMPROVE                  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+### My Goals
+
+* Build production-quality analytics projects
+* Strengthen advanced SQL and Python
+* Develop stronger Machine Learning fundamentals
+* Create meaningful Power BI & Tableau dashboards
+* Contribute consistently to GitHub
+* Prepare for Data Analyst / ML opportunities
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sk-ismail-738bb736a/">
+<img src="https://img.shields.io/badge/LinkedIn-SK%20ISMAIL-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:skismailkhan256@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-skismailkhan256%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/skismailkhan256-source">
+<img src="https://img.shields.io/badge/GitHub-@skismailkhan256--source-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Data tells a story.
+
+### 📊 I’m learning how to find it.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
