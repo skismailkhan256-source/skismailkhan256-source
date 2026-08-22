@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/skismailkhan256-source/skismailkhan256-source/main/profile-banner.png"
-     width="100%"
-     alt="SK ISMAIL - Data Analytics and Machine Learning">
+<img src="https://raw.githubusercontent.com/skismailkhan256-source/skismailkhan256-source/main/banner%20of%20github.png"
+  width="100%"
+  alt="SK ISMAIL - Data Analytics and Machine Learning">
 
 <br><br>
 
@@ -75,27 +75,27 @@ I believe in learning through practical projects and continuously improving by b
 
 ## Data Analytics
 
-| Area | Skills |
-|---|---|
-| Data Analysis | Data Cleaning, EDA, Statistical Analysis |
-| Business Intelligence | Power BI, Tableau, Excel |
-| Data Processing | Pandas, NumPy, Power Query |
-| Visualization | Matplotlib, Seaborn, Power BI, Tableau |
-| Reporting | KPI Reporting, Dashboard Development |
-| Problem Solving | Data-driven analysis and business problem solving |
+| Area                  | Skills                                            |
+| --------------------- | ------------------------------------------------- |
+| Data Analysis         | Data Cleaning, EDA, Statistical Analysis          |
+| Business Intelligence | Power BI, Tableau, Excel                          |
+| Data Processing       | Pandas, NumPy, Power Query                        |
+| Visualization         | Matplotlib, Seaborn, Power BI, Tableau            |
+| Reporting             | KPI Reporting, Dashboard Development              |
+| Problem Solving       | Data-driven analysis and business problem solving |
 
 ---
 
 ## Machine Learning
 
-| Area | Techniques |
-|---|---|
-| Supervised Learning | Regression, Classification |
-| Tree Models | Decision Tree, Random Forest |
-| Unsupervised Learning | K-Means |
-| Recommendation | K-Nearest Neighbors |
-| Model Evaluation | Accuracy, Precision, Recall, F1 Score |
-| Data Preparation | Preprocessing, Feature Preparation, Similarity Analysis |
+| Area                  | Techniques                                              |
+| --------------------- | ------------------------------------------------------- |
+| Supervised Learning   | Regression, Classification                              |
+| Tree Models           | Decision Tree, Random Forest                            |
+| Unsupervised Learning | K-Means                                                 |
+| Recommendation        | K-Nearest Neighbors                                     |
+| Model Evaluation      | Accuracy, Precision, Recall, F1 Score                   |
+| Data Preparation      | Preprocessing, Feature Preparation, Similarity Analysis |
 
 ---
 
@@ -109,12 +109,12 @@ A business intelligence project focused on analyzing e-commerce sales data and c
 
 ### Highlights
 
-- Cleaned, transformed and validated raw sales data using Power Query
-- Built an interactive Power BI dashboard
-- Created 5+ business KPIs
-- Analyzed revenue, orders, quantity and average order value
-- Studied product, category and city-level performance
-- Generated insights for business decision-making
+* Cleaned, transformed and validated raw sales data using Power Query
+* Built an interactive Power BI dashboard
+* Created 5+ business KPIs
+* Analyzed revenue, orders, quantity and average order value
+* Studied product, category and city-level performance
+* Generated insights for business decision-making
 
 [View Project](https://github.com/skismailkhan256-source/Clipkart-Sales-Analytics-PowerBI)
 
@@ -128,11 +128,11 @@ A personalized movie recommendation system using similarity-based machine learni
 
 ### Highlights
 
-- Processed 4,000+ movie records
-- Implemented K-Nearest Neighbors
-- Performed data preprocessing and similarity analysis
-- Integrated an external movie API
-- Generates Top 5 personalized movie recommendations
+* Processed 4,000+ movie records
+* Implemented K-Nearest Neighbors
+* Performed data preprocessing and similarity analysis
+* Integrated an external movie API
+* Generates Top 5 personalized movie recommendations
 
 [View Project](https://github.com/skismailkhan256-source/Movie-Recomendation-System)
 
@@ -146,12 +146,7 @@ A practical machine learning repository covering predictive analytics and model 
 
 ### Topics
 
-`Regression`  
-`Classification`  
-`Decision Tree`  
-`Random Forest`  
-`K-Means`  
-`Model Evaluation`
+`Regression` · `Classification` · `Decision Tree` · `Random Forest` · `K-Means` · `Model Evaluation`
 
 [View Repository](https://github.com/skismailkhan256-source/Machine-Learning-Predictive-Analytics)
 
@@ -169,13 +164,13 @@ Worked on practical data analysis, reporting and dashboard development tasks.
 
 ### Key Contributions
 
-- Processed and organized 5,000+ records
-- Focused on data accuracy, consistency and quality
-- Built Excel macro-driven templates for recurring reports
-- Reduced manual reporting preparation time by approximately 30%
-- Prepared scheduled reports and interactive dashboards
-- Communicated analytical findings through structured reports
-- Collaborated with a cross-functional team of 4+ members
+* Processed and organized 5,000+ records
+* Focused on data accuracy, consistency and quality
+* Built Excel macro-driven templates for recurring reports
+* Reduced manual reporting preparation time by approximately 30%
+* Prepared scheduled reports and interactive dashboards
+* Communicated analytical findings through structured reports
+* Collaborated with a cross-functional team of 4+ members
 
 ---
 
@@ -201,13 +196,13 @@ Worked on practical data analysis, reporting and dashboard development tasks.
 
 # Certifications
 
-| Certification | Provider |
-|---|---|
-| Data Analytics Training / Internship | CTTC, Bhubaneswar |
-| 30 Days Power BI Micro Course | SkillCourse |
-| Microsoft Excel Beginners To Advance | SkillCourse |
-| 30 Days SQL Micro Course | SkillCourse |
-| The AI MasterClass | Dhruv Rathee Academy |
+| Certification                        | Provider             |
+| ------------------------------------ | -------------------- |
+| Data Analytics Training / Internship | CTTC, Bhubaneswar    |
+| 30 Days Power BI Micro Course        | SkillCourse          |
+| Microsoft Excel Beginners To Advance | SkillCourse          |
+| 30 Days SQL Micro Course             | SkillCourse          |
+| The AI MasterClass                   | Dhruv Rathee Academy |
 
 ---
 
