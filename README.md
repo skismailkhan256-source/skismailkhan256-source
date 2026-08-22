@@ -1,514 +1,351 @@
-<!-- =========================================================
-     PREMIUM GITHUB PROFILE — SK ISMAIL
-========================================================= -->
+\documentclass[9pt,a4paper]{article}
+
+%================================================
+% PACKAGES
+%================================================
+\usepackage[
+    left=0.42in,
+    right=0.42in,
+    top=0.34in,
+    bottom=0.32in
+]{geometry}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
+
+%================================================
+% COLORS
+%================================================
+\definecolor{primary}{HTML}{1769AA}
+\definecolor{accent}{HTML}{0B84F3}
+\definecolor{dark}{HTML}{1F2937}
+\definecolor{textgray}{HTML}{4B5563}
+\definecolor{lightgray}{HTML}{6B7280}
+\definecolor{linegray}{HTML}{D9E2EC}
+\definecolor{softblue}{HTML}{EAF4FF}
+
+%================================================
+% PAGE
+%================================================
+\pagestyle{empty}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+%================================================
+% HYPERLINKS
+%================================================
+\hypersetup{
+    colorlinks=true,
+    urlcolor=primary,
+    linkcolor=primary
+}
+
+%================================================
+% SECTION STYLE
+%================================================
+\titleformat{\section}
+{\color{dark}\large\bfseries}
+{}
+{0pt}
+{}
+[\vspace{-4pt}\color{primary}\rule{\linewidth}{1.2pt}]
+
+\titlespacing*{\section}
+{0pt}
+{4pt}
+{2pt}
+
+%================================================
+% BULLETS
+%================================================
+\setlist[itemize]{
+    leftmargin=13pt,
+    itemsep=0pt,
+    topsep=1pt,
+    parsep=0pt,
+    partopsep=0pt
+}
+
+%================================================
+% CUSTOM COMMANDS
+%================================================
+\newcommand{\projecttitle}[2]{
+    \textbf{\large #1}
+    \hfill
+    {\color{primary}\textbf{#2}}
+}
+
+\newcommand{\entrytitle}[2]{
+    \textbf{#1}
+    \hfill
+    {\color{primary}\textbf{#2}}
+}
+
+\newcommand{\skillline}[2]{
+    \textbf{#1} \hspace{2pt} #2
+}
+
+%================================================
+% DOCUMENT
+%================================================
+\begin{document}
 
-<!-- ===================== TOP BANNER ======================= -->
+%================================================
+% HEADER
+%================================================
 
-<p align="center">
-  <img
-    src="./SK-Ismail-Profile-Banner.png"
-    width="100%"
-    alt="SK ISMAIL | Data Analyst | Machine Learning Enthusiast"
-  />
-</p>
+\begin{center}
 
-<!-- ===================== ANIMATED INTRO =================== -->
+{\fontsize{23}{24}\selectfont\bfseries\color{dark} SK ISMAIL}
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=700&color=2F81F7&center=true&vCenter=true&width=900&lines=DATA+ANALYST;MACHINE+LEARNING+ENTHUSIAST;POWER+BI+%7C+PYTHON+%7C+SQL+%7C+EXCEL;BUILDING+DATA-DRIVEN+SOLUTIONS;TURNING+DATA+INTO+INSIGHTS"
-    alt="Animated introduction"
-  />
-</p>
+\vspace{1pt}
 
-<!-- ===================== SOCIAL BAR ======================= -->
+{\normalsize\bfseries\color{primary}
+Data Analyst \;|\; Machine Learning Enthusiast}
 
-<p align="center">
+\vspace{4pt}
 
-<a href="https://www.linkedin.com/in/sk-ismail-738bb736a">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+{\small
+\faPhone\; +91 8249511537
+\quad
+\textcolor{linegray}{|}
+\quad
+\faEnvelope\; \href{mailto:skismailkhan256@gmail.com}
+{skismailkhan256@gmail.com}
+\quad
+\textcolor{linegray}{|}
+\quad
+\faLinkedin\; \href{https://www.linkedin.com/in/sk-ismail-738bb736a}
+{linkedin.com/in/sk-ismail-738bb736a}
+\quad
+\textcolor{linegray}{|}
+\quad
+\faGithub\; \href{https://github.com/skismailkhan256-source}
+{skismailkhan256-source}
+}
 
-<a href="mailto:skismailkhan256@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+\vspace{4pt}
 
-<a href="https://github.com/skismailkhan256-source">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+\color{primary}\rule{0.88\linewidth}{1.2pt}
 
-<img src="https://komarev.com/ghpvc/?username=skismailkhan256-source&label=PROFILE+VIEWS&color=2F81F7&style=for-the-badge" />
+\end{center}
 
-</p>
+%================================================
+% PROFILE SUMMARY
+%================================================
 
-<br>
+\section*{Profile Summary}
 
-<!-- ===================== GRADIENT LINE ==================== -->
+{\small
+Aspiring Data Analyst and Machine Learning enthusiast with hands-on experience in data analysis, data cleaning, exploratory data analysis (EDA), data visualization, dashboard development, and machine learning. Skilled in Python, SQL, Power BI, Tableau, and Excel, with practical experience in statistical analysis, data preprocessing, KPI reporting, and data-driven problem solving. Currently pursuing MCA with a specialization in Machine Learning and seeking opportunities to apply analytical and technical skills to real-world business problems.
+}
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header"
-    width="92%"
-  />
-</p>
+%================================================
+% EDUCATION
+%================================================
 
-<!-- ===================== ABOUT ============================ -->
+\section*{Education}
 
-## PROFILE
+\entrytitle{Master of Computer Applications (MCA)}{2025--2027}
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### SK ISMAIL
-
-**Data Analyst | Machine Learning Enthusiast**
-
-I am an MCA student specializing in Machine Learning with a strong interest in Data Analytics, Business Intelligence, and practical Machine Learning.
-
-I enjoy working across the complete data workflow — from **raw data and cleaning to analysis, visualization, dashboards, machine learning, and business insights**.
-
-Currently, I am focused on building practical projects using:
-
-`Python` · `SQL` · `Power BI` · `Excel` · `Tableau` · `Scikit-learn`
-
-My approach is simple:
-
-> **Understand the data. Find the pattern. Build the solution. Create the impact.**
-
-</td>
-
-<td width="42%" valign="top">
-
-```text
-                   CURRENT FOCUS
-
-        ┌──────────────────────────────┐
-        │        DATA ANALYTICS        │
-        ├──────────────────────────────┤
-        │  Data Cleaning               │
-        │  Exploratory Analysis        │
-        │  SQL Analytics               │
-        │  Power BI Dashboards         │
-        │  Business Intelligence       │
-        │  Machine Learning            │
-        └──────────────────────────────┘
-
-          "Turning Data into Insights,
-           Driving Decisions & Impact."
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== SKILLS ========================== -->
-
-## TECHNOLOGY STACK
-
-### Languages & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode" />
-</p>
-
-### Data Analytics & Business Intelligence
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" />
-  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### Python Data & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
----
-
-<!-- ===================== ANALYTICS PROFILE ================= -->
-
-## DATA ANALYTICS PROFILE
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### ANALYZE
-
-Data Cleaning
-EDA
-Statistics
-SQL
-
-</td>
-
-<td width="25%" align="center">
-
-### VISUALIZE
-
-Power BI
-Tableau
-Excel
-Charts
-
-</td>
-
-<td width="25%" align="center">
-
-### MODEL
-
-Regression
-Classification
-KNN
-Random Forest
-
-</td>
-
-<td width="25%" align="center">
-
-### DELIVER
-
-KPIs
-Dashboards
-Insights
-Decisions
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================== FEATURED PROJECT ================= -->
-
-## FEATURED WORK
-
-<a href="https://github.com/skismailkhan256-source/Clipkart-Sales-Analytics-PowerBI">
-
-<img
-align="right"
-width="43%"
-src="https://raw.githubusercontent.com/skismailkhan256-source/Clipkart-Sales-Analytics-PowerBI/main/screenshots/dashboard.png"
-alt="Clipkart Sales Analytics Dashboard"
-/>
-
-</a>
-
-### CLIPKART SALES ANALYTICS
-
-**Power BI · Power Query · Excel**
-
-Interactive e-commerce sales dashboard designed to monitor business performance and uncover actionable insights.
-
-**Dashboard coverage**
-
-* Total Revenue — **6.16M**
-* Total Orders — **1K**
-* Total Quantity — **2K**
-* Average Order Value — **6.16K**
-* Top Product Revenue — **838K**
-
-**Analysis areas**
-
-`Revenue by Category`
-`Top Revenue Products`
-`Top Performing Cities`
-`Price vs Revenue`
-`KPI Performance Monitoring`
-
-<br clear="right"/>
-
-<p align="center">
-  <a href="https://github.com/skismailkhan256-source/Clipkart-Sales-Analytics-PowerBI">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-2F81F7?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### MOVIE RECOMMENDATION SYSTEM
-
-**Python · KNN · Pandas · Machine Learning · API**
-
-A recommendation system designed to generate personalized movie suggestions based on similarity analysis.
-
-```text
-DATASET
-4,000+ Movies
-      ↓
-PREPROCESSING
-Clean + Transform
-      ↓
-KNN MODEL
-Similarity Analysis
-      ↓
-API
-Movie Details + Posters
-      ↓
-OUTPUT
-Top 5 Recommendations
-```
-
-**Status:** In Progress
-
----
-
-<!-- ===================== EXPERIENCE ====================== -->
-
-## EXPERIENCE
-
-### DATA ANALYTICS INTERN
-
-**Central Tool Room & Training Centre (CTTC), Bhubaneswar**
-
-**Data Analysis & Reporting**
-
-* Processed and organized **5,000+ records** with focus on data accuracy and quality.
-* Built Excel macro-driven templates for recurring reporting tasks.
-* Prepared structured analytical reports and dashboards.
-* Communicated findings through reports and presentations.
-* Worked with a cross-functional team to complete analytics tasks within deadlines.
-
----
-
-<!-- ===================== EDUCATION ======================= -->
-
-## EDUCATION
-
-**Master of Computer Applications (MCA)**
 Centurion University, Jatani, Bhubaneswar, Odisha
-`2025 – 2027` · **CGPA: 8.35 / 10**
+\hfill
+\textbf{CGPA: 8.35/10}
 
-**Bachelor of Science — Botany Honours**
+\vspace{1pt}
+
+\entrytitle{Bachelor of Science (B.Sc.) -- Botany Honours}{2022--2025}
+
 A.P. College, Raruan, Mayurbhanj, Odisha
-`2022 – 2025` · **74.36%**
+\hfill
+\textbf{74.36\%}
 
----
+\vspace{1pt}
 
-<!-- ===================== CERTIFICATIONS ================== -->
+\entrytitle{Higher Secondary (12th) -- Science}{2022}
 
-## CERTIFICATIONS
+Gorumahisani Iron Higher Secondary School, Mayurbhanj, Odisha
+\hfill
+\textbf{61.33\%}
 
-<p>
-  <img src="https://img.shields.io/badge/IBM%20SKILLSBUILD-Data%20Analytics%20with%20AI-0F62FE?style=flat-square&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTTC-Data%20Analytics-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/POWER%20BI-SkillCourse-F2C811?style=flat-square" />
-  <img src="https://img.shields.io/badge/EXCEL-SkillCourse-217346?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-SkillCourse-336791?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20MASTERCLASS-Completed-111827?style=flat-square" />
-</p>
+\vspace{1pt}
 
----
+\entrytitle{High School Certificate (10th)}{2020}
 
-<!-- ===================== LEARNING ========================= -->
+Rairangpur High School, Rairangpur, Mayurbhanj, Odisha
+\hfill
+\textbf{50.50\%}
 
-## CURRENTLY BUILDING
+%================================================
+% INTERNSHIP
+%================================================
 
-<p align="center">
+\section*{Internship}
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,50:1D4ED8,100:06B6D4&height=60&section=header&text=ADVANCED%20SQL&fontSize=22&fontColor=FFFFFF" width="30%" />
+\entrytitle{Data Analytics Intern -- Data Analysis \& Reporting}
+{May 2025--June 2025}
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,50:2563EB,100:7C3AED&height=60&section=header&text=POWER%20BI%20%2B%20DAX&fontSize=22&fontColor=FFFFFF" width="30%" />
+\textbf{Central Tool Room \& Training Centre (CTTC), Bhubaneswar, Odisha}
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:111827,50:059669,100:06B6D4&height=60&section=header&text=MACHINE%20LEARNING&fontSize=22&fontColor=FFFFFF" width="30%" />
+\begin{itemize}
+    \item Processed and organized 5,000+ records with focus on accuracy, consistency, and data quality, reducing data errors by \textasciitilde20\%.
+    \item Built Excel macro-driven templates to automate recurring reporting tasks, cutting manual prep time by \textasciitilde30\%.
+    \item Prepared scheduled reports and interactive dashboards to support timely, data-driven decision-making.
+    \item Communicated analytical findings through structured reports and presentations for non-technical audiences.
+    \item Collaborated with a cross-functional team of 4+ members to complete analytics tasks within deadlines.
+\end{itemize}
 
-</p>
+%================================================
+% PROJECTS
+%================================================
 
----
+\section*{Projects}
 
-<!-- ===================== WORKFLOW ========================= -->
+\projecttitle{Clipkart Sales Analytics Dashboard}{Aug 2026}
 
-## MY DATA WORKFLOW
+{\small\textit{\color{textgray}Power BI \;|\; Power Query \;|\; Excel}}
 
-```text
-                         RAW DATA
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │  CLEAN & TRANSFORM   │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   EXPLORE & ANALYZE │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                ┌──────────────────────┐
-                │ VISUALIZE & BUILD BI │
-                └──────────┬───────────┘
-                           │
-                           ▼
-                 ┌─────────────────────┐
-                 │   MACHINE LEARNING  │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │ BUSINESS INSIGHTS   │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                    BETTER DECISIONS
-```
+\begin{itemize}
+    \item Cleaned, transformed, and validated raw e-commerce sales data using Power Query for analysis and dashboard development.
+    \item Built an interactive Power BI dashboard with 5+ KPIs to monitor revenue, orders, quantity, average order value, and top product performance.
+    \item Analyzed revenue across product categories, top-performing products, and cities using charts, tables, filters, and KPI visualizations.
+    \item Generated data-driven insights on sales performance, category contribution, regional performance, and price-revenue relationships to support business decision-making.
+\end{itemize}
 
----
+\vspace{1pt}
 
-<!-- ===================== GITHUB STATS ==================== -->
+\projecttitle{Movie Recommendation System}{In Progress}
 
-## GITHUB ANALYTICS
+{\small\textit{\color{textgray}Python \;|\; KNN \;|\; Pandas \;|\; Movie API}}
 
-<p align="center">
+\begin{itemize}
+    \item Developed a movie recommendation system using the K-Nearest Neighbors (KNN) algorithm.
+    \item Processed and analyzed 4,000+ movie records using Python for data preprocessing and recommendation analysis.
+    \item Integrated an external movie API to retrieve posters and additional movie information.
+    \item Generated Top 5 personalized movie recommendations based on user preferences and similarity analysis.
+\end{itemize}
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=skismailkhan256-source&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-width="49%"
-/>
+%================================================
+% TECHNICAL SKILLS
+%================================================
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=skismailkhan256-source&layout=compact&hide_border=true&theme=tokyonight"
-width="49%"
-/>
+\section*{Technical Skills}
 
-</p>
+\begin{tabularx}{\linewidth}{@{}>{\bfseries\color{primary}}p{1.25in} X@{}}
 
-<p align="center">
+Programming
+&
+Python, SQL, Java, C
+\\[1.5pt]
 
-<img
-src="https://streak-stats.demolab.com?user=skismailkhan256-source&theme=tokyonight&hide_border=true&ring=2F81F7&fire=06B6D4&currStreakLabel=2F81F7"
-width="70%"
-/>
+Data Analytics
+&
+Data Analysis, Data Cleaning, EDA, Data Preprocessing, Statistical Analysis
+\\[1.5pt]
 
-</p>
+Libraries
+&
+Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+\\[1.5pt]
 
----
+Machine Learning
+&
+Regression, Classification, Decision Tree, Random Forest, K-Means, Model Evaluation
+\\[1.5pt]
 
-<!-- ===================== CONTRIBUTIONS =================== -->
+BI \& Visualization
+&
+Power BI, Tableau, Microsoft Excel
+\\[1.5pt]
 
-## CONTRIBUTION ACTIVITY
+Tools
+&
+Git, GitHub, Jupyter Notebook, Visual Studio Code
 
-<p align="center">
+\end{tabularx}
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=skismailkhan256-source&bg_color=0d1117&color=58a6ff&line=2f81f7&point=06b6d4&area=true&hide_border=true"
-width="100%"
-/>
+%================================================
+% CERTIFICATIONS
+%================================================
 
-</p>
+\section*{Certifications}
 
----
+\begin{tabularx}{\linewidth}{@{}X r@{}}
 
-<!-- ===================== SNAKE ANIMATION ================== -->
+\textbf{Data Analytics Training / Internship Certificate -- CTTC, Bhubaneswar}
+& \textbf{13 June 2026}
+\\
 
-## CONTRIBUTION FLOW
+\textbf{30 Days Power BI Micro Course -- SkillCourse}
+& \textbf{07 August 2026}
+\\
 
-<p align="center">
+\textbf{Microsoft Excel Beginners To Advance -- SkillCourse}
+& \textbf{20 August 2026}
+\\
 
-<img
-src="https://raw.githubusercontent.com/skismailkhan256-source/skismailkhan256-source/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub contribution snake animation"
-width="100%"
-/>
+\textbf{30 Days SQL Micro Course -- SkillCourse}
+& \textbf{21 August 2026}
+\\
 
-</p>
+\textbf{The AI MasterClass -- Dhruv Rathee Academy}
+& \textbf{26 July 2026}
 
----
+\end{tabularx}
 
-<!-- ===================== GOALS ============================= -->
+%================================================
+% COURSES + STRENGTHS
+%================================================
 
-## CAREER DIRECTION
+\section*{Courses}
 
-```text
-DATA ANALYTICS
-      │
-      ├── Business Intelligence
-      │
-      ├── Data Visualization
-      │
-      └── Machine Learning
-                │
-                ▼
-        REAL-WORLD SOLUTIONS
-```
+\begin{tabularx}{\linewidth}{@{}X X@{}}
 
-My long-term goal is to combine **analytics, business intelligence, and machine learning** to solve practical problems and create measurable impact from data.
+\textbf{The Ultimate Job Ready Data Science Course -- CodeWithHarry}
+&
+\textbf{Data Analytics Course}
+\\[2pt]
 
----
+\textbf{30 Days Python Micro Course -- SkillCourse}
+&
+\textbf{30 Days SQL Micro Course -- SkillCourse}
+\\
 
-<!-- ===================== CONNECT ========================== -->
+\end{tabularx}
 
-## LET'S CONNECT
+\vspace{2pt}
 
-<p align="center">
+\section*{Strengths / Soft Skills}
 
-<a href="https://www.linkedin.com/in/sk-ismail-738bb736a">
-<img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+\begin{center}
 
-<a href="mailto:skismailkhan256@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+\colorbox{softblue}{
+\parbox{0.92\linewidth}{
+\centering
+\textbf{\color{dark}
+Analytical Thinking
+\quad | \quad
+Problem Solving
+\quad | \quad
+Communication
+\quad | \quad
+Teamwork
+\quad | \quad
+Adaptability
+}
+}
 
-<a href="https://github.com/skismailkhan256-source">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+\end{center}
 
-</p>
-
-<br>
-
-<!-- ===================== FOOTER ANIMATION ================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1D4ED8,50:2563EB,75:06B6D4,100:0F172A&height=140&section=footer"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <strong>SK ISMAIL</strong><br>
-  Data Analyst · Machine Learning Enthusiast
-</p>
-```
-
-### Ek important baat — Snake animation
-
-Upar wala ye section:
-
-```markdown
-github-contribution-grid-snake-dark.svg
-```
-
-**tabhi chalega jab tum GitHub Actions se snake generate karoge**. Sirf README paste karne se nahi chalega.
-
-Uske liye profile repo mein ye file bhi banana hoga:
-
-```text
-.github/workflows/snake.yml
-```
-
-Us workflow se har din GitHub contribution graph ki animated snake image generate hogi. **Ye wahi moving animation hai jo tum dekhna chahte ho.**
-
-Aur jo **blue gradient/waving animation** hai, wo README mein bina kisi extra setup ke render ho jayega.
-
-**Important:** tumhara banner root mein exactly:
-
-```text
-SK-Ismail-Profile-Banner.png
-```
-
-hona chahiye.
+\end{document}
