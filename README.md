@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/skismailkhan256-source/skismailkhan256-source/main/banner%20of%20github.png"
+<img src="https://raw.githubusercontent.com/skismailkhan256-source/skismailkhan256-source/main/profile-banner.gif"
   width="100%"
   alt="SK ISMAIL - Data Analytics and Machine Learning">
 
