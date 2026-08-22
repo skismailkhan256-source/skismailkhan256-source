@@ -1,438 +1,361 @@
-<!-- ============================================================= -->
-
-<!--                    SK ISMAIL | PROFILE                       -->
-
-<!-- ============================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=SK%20ISMAIL&fontSize=64&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=19&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=SK%20ISMAIL&fontSize=58&fontAlignY=38&desc=Data%20Analytics%20%7C%20Machine%20Learning&descAlignY=60&descSize=18&animation=fadeIn&color=gradient" width="100%">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=36BCF7&center=true&vCenter=true&width=950&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Turning+Raw+Data+Into+Useful+Insights;Building+Machine+Learning+Solutions;Data+Analytics+%7C+Visualization+%7C+ML;Learn+%E2%86%92+Build+%E2%86%92+Analyze+%E2%86%92+Improve"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Data+Analytics+%7C+Machine+Learning;Turning+Data+Into+Insights;Building+Practical+Data-Driven+Solutions" />
 
 <br><br>
 
 <a href="https://github.com/skismailkhan256-source">
-<img src="https://img.shields.io/badge/GITHUB-SK%20ISMAIL-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/sk-ismail-738bb736a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:skismailkhan256@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=skismailkhan256-source&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=skismailkhan256-source&label=PROFILE%20VIEWS&style=for-the-badge&color=58A6FF">
 
 </div>
 
 ---
 
-# 🧑‍💻 WHO AM I?
+## About
 
-<table>
-<tr>
-<td width="55%">
+I am **SK ISMAIL**, an MCA student specializing in **Data Analytics and Machine Learning**.
 
-### 👋 Hey, I'm SK ISMAIL
+My primary interest is transforming raw data into meaningful insights through data cleaning, exploratory analysis, visualization, business intelligence, and machine learning.
 
-I'm an **MCA student** focused on **Data Analytics and Machine Learning**.
+I work primarily with **Python, SQL, Power BI, Tableau, and Microsoft Excel**, while continuously strengthening my foundations in machine learning, programming, and problem solving.
 
-I enjoy working with data from the point where it is messy and unstructured to the point where it becomes a useful business insight.
+My approach is simple:
 
-My current workflow is:
-
-**Collect → Clean → Explore → Visualize → Analyze → Predict**
-
-I'm continuously building projects around:
-
-* 📊 Data Analytics
-* 🐍 Python
-* 🗄️ SQL
-* 📈 Power BI
-* 📉 Tableau
-* 📗 Excel
-* 🤖 Machine Learning
-
-</td>
-
-<td width="45%">
-
-```text
-╔══════════════════════════════╗
-║        SK ISMAIL             ║
-╠══════════════════════════════╣
-║ 🎓 MCA Student               ║
-║ 📊 Data Analytics            ║
-║ 🤖 Machine Learning          ║
-║ 🐍 Python                    ║
-║ 🗄️ SQL                       ║
-║ 📈 Power BI                  ║
-║ 📉 Tableau                   ║
-║ 📗 Excel                     ║
-║ 💻 Java & C                  ║
-╚══════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
+**Learn → Practice → Build → Analyze → Improve**
 
 ---
 
-# ⚡ MY CORE STACK
+## Core Technologies
 
 <div align="center">
 
-### 🐍 PYTHON
+### Data Analytics
 
-<img src="https://skillicons.dev/icons?i=python" width="65"/>
-
-### 🗄️ SQL
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-### 📊 POWER BI
-
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
-
-### 📈 TABLEAU
-
-<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-### 📗 MICROSOFT EXCEL
-
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</div>
-
----
-
-# 🧠 SKILL MAP
-
-```text
-DATA ANALYTICS
-│
-├── 🧹 Data Cleaning
-├── 🔍 Exploratory Data Analysis
-├── 📊 Statistical Analysis
-├── 📈 Data Visualization
-├── 📋 KPI Reporting
-└── 💡 Data-Driven Problem Solving
-
-MACHINE LEARNING
-│
-├── Regression
-├── Classification
-├── Decision Trees
-├── Random Forest
-├── K-Means
-└── Model Evaluation
-
-TOOLS
-│
-├── Python
-├── SQL
-├── Power BI
-├── Tableau
-├── Excel
-├── Git / GitHub
-└── Jupyter Notebook
-```
-
----
-
-# 🛠️ TECHNOLOGY UNIVERSE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git,github,vscode"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+### Machine Learning
 
-<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<br><br>
+
+### Programming & Tools
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 </div>
 
 ---
 
-# 🚀 PROJECT SHOWCASE
+## What I Work On
 
-## 01 — 📊 Clipkart Sales Analytics
-
-> **Turning raw e-commerce data into business intelligence.**
-
-**Tech:** `Power BI` `Power Query` `Data Analytics`
-
-* Cleaned and transformed raw sales data
-* Built an interactive business dashboard
-* Created **5+ KPIs**
-* Analyzed revenue, orders, quantity and AOV
-* Studied category, product and city-level performance
-* Generated actionable business insights
-
-🔗 **[Explore Project →](https://github.com/skismailkhan256-source/Clipkart-Sales-Analytics-PowerBI)**
+| Area               | Focus                                                             |
+| ------------------ | ----------------------------------------------------------------- |
+| Data Analytics     | Data Cleaning, EDA, Statistical Analysis, KPI Reporting           |
+| Data Visualization | Power BI, Tableau, Excel                                          |
+| Programming        | Python, SQL, Java, C                                              |
+| Machine Learning   | Regression, Classification, Decision Tree, Random Forest, K-Means |
+| Libraries          | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn                  |
+| Development Tools  | Git, GitHub, Jupyter Notebook, VS Code                            |
 
 ---
 
-## 02 — 🎬 Movie Recommendation System
+## Featured Projects
 
-> **From movie data → similarity → personalized recommendations.**
+### Clipkart Sales Analytics — Power BI
 
-**Tech:** `Python` `KNN` `Pandas` `Machine Learning` `API`
+**Business Intelligence and E-commerce Analytics**
 
-* Processed **4,000+ movie records**
-* Applied K-Nearest Neighbors
-* Performed preprocessing and similarity analysis
-* Integrated external movie API
-* Generates **Top 5 personalized recommendations**
+A Power BI project focused on transforming raw e-commerce sales data into an interactive business dashboard.
 
-🔗 **[Explore Project →](https://github.com/skismailkhan256-source/Movie-Recomendation-System)**
+**Key work**
 
----
+* Cleaned and transformed raw data using Power Query
+* Built an interactive Power BI dashboard
+* Created 5+ business KPIs
+* Analyzed revenue, orders, quantity and average order value
+* Studied product, category and city-level performance
+* Generated insights for business decision-making
 
-## 03 — 🤖 Machine Learning Predictive Analytics
-
-> **Exploring predictive models through hands-on implementation.**
-
-**Tech:** `Python` `Scikit-learn` `Pandas` `NumPy`
-
-`Regression` • `Classification` • `Decision Tree` • `Random Forest` • `K-Means` • `Model Evaluation`
-
-🔗 **[Explore Repository →](https://github.com/skismailkhan256-source/Machine-Learning-Predictive-Analytics)**
+[View Repository](https://github.com/skismailkhan256-source/Clipkart-Sales-Analytics-PowerBI)
 
 ---
 
-# 📚 THE LEARNING LAB
+### Movie Recommendation System
+
+**Machine Learning Recommendation Engine**
+
+A recommendation system built using K-Nearest Neighbors to generate personalized movie suggestions.
+
+**Key work**
+
+* Processed 4,000+ movie records
+* Performed data preprocessing and similarity analysis
+* Implemented KNN-based recommendations
+* Integrated an external movie API
+* Generates Top 5 movie recommendations based on user preferences
+
+[View Repository](https://github.com/skismailkhan256-source/Movie-Recomendation-System)
+
+---
+
+### Machine Learning Predictive Analytics
+
+A collection of machine learning implementations focused on predictive analytics and model evaluation.
+
+**Concepts covered**
+
+`Regression` · `Classification` · `Decision Tree` · `Random Forest` · `K-Means` · `Model Evaluation`
+
+[View Repository](https://github.com/skismailkhan256-source/Machine-Learning-Predictive-Analytics)
+
+---
+
+## Data Analytics Portfolio
 
 <div align="center">
 
-|         🔬 AREA        | 📂 REPOSITORY                                                                                  |
-| :--------------------: | :--------------------------------------------------------------------------------------------- |
-|      🐍 **Python**     | [Python Practice](https://github.com/skismailkhan256-source/Python-practice)                   |
-|       🗄️ **SQL**      | [SQL Practice](https://github.com/skismailkhan256-source/SQL-Practice)                         |
-|     📊 **Power BI**    | [Power BI Analytics](https://github.com/skismailkhan256-source/power-bi-data-analytics)        |
-|     📈 **Tableau**     | [Tableau Practice](https://github.com/skismailkhan256-source/Tableau-Practice)                 |
-|      📗 **Excel**      | [Excel Practice](https://github.com/skismailkhan256-source/Microsoft-Excel-Practice)           |
-|   🧩 **DSA / Coding**  | [LeetCode Solutions](https://github.com/skismailkhan256-source/Leetcode-solutions)             |
-| 🌐 **Web Development** | [Web Development Practice](https://github.com/skismailkhan256-source/Web-Development-Practice) |
+<a href="https://github.com/skismailkhan256-source/power-bi-data-analytics">
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</a>
+
+<a href="https://github.com/skismailkhan256-source/Tableau-Practice">
+<img src="https://img.shields.io/badge/Tableau-Analytics-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+</a>
+
+<a href="https://github.com/skismailkhan256-source/SQL-Practice">
+<img src="https://img.shields.io/badge/SQL-Practice-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://github.com/skismailkhan256-source/Python-practice">
+<img src="https://img.shields.io/badge/Python-Practice-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://github.com/skismailkhan256-source/Microsoft-Excel-Practice">
+<img src="https://img.shields.io/badge/Excel-Practice-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-# 💼 PROFESSIONAL EXPERIENCE
+## Experience
 
-### 📊 Data Analytics Intern
+### Data Analytics Intern
 
-**Central Tool Room & Training Centre — Bhubaneswar**
+**Central Tool Room & Training Centre (CTTC), Bhubaneswar**
 
-`May 2025 → June 2025`
+`May 2025 — June 2025`
 
-```text
-5,000+     Records Processed
-  ~20%     Data Error Reduction
-  ~30%     Manual Reporting Time Reduced
-   4+      Cross-functional Team Members
-```
+During my internship, I worked on practical data analysis and reporting tasks involving large datasets and business reporting workflows.
 
-### What I worked on
+**Highlights**
 
-* Data cleaning, organization and validation
-* Excel macro-driven reporting templates
-* Scheduled reports and dashboards
-* Analytical reporting for decision-making
-* Communicating insights to non-technical audiences
+* Processed and organized 5,000+ records
+* Improved data accuracy and consistency
+* Built Excel macro-driven reporting templates
+* Reduced manual reporting preparation time by approximately 30%
+* Prepared scheduled reports and interactive dashboards
+* Presented analytical findings through structured reports
+* Worked with a cross-functional team of 4+ members
 
 ---
 
-# 🎓 EDUCATION
+## Education
 
-### Master of Computer Applications — MCA
+### Master of Computer Applications
 
-**Centurion University, Bhubaneswar**
+**Centurion University, Jatani, Bhubaneswar, Odisha**
 
-`2025 — 2027`  |  **CGPA: 8.35 / 10**
+`2025 — 2027`
+**CGPA: 8.35 / 10**
 
 ### Bachelor of Science — Botany Honours
 
-**A.P. College, Raruan, Mayurbhanj**
+**A.P. College, Raruan, Mayurbhanj, Odisha**
 
-`2022 — 2025`  |  **74.36%**
-
----
-
-# 🏅 CERTIFICATIONS
-
-| Certificate                             | Provider             |
-| --------------------------------------- | -------------------- |
-| 📊 Data Analytics Training / Internship | CTTC                 |
-| 📈 30 Days Power BI Micro Course        | SkillCourse          |
-| 📗 Microsoft Excel Beginners to Advance | SkillCourse          |
-| 🗄️ 30 Days SQL Micro Course            | SkillCourse          |
-| 🤖 The AI MasterClass                   | Dhruv Rathee Academy |
+`2022 — 2025`
+**74.36%**
 
 ---
 
-# 🔭 CURRENTLY BUILDING
+## Certifications
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    CURRENT FOCUS                         │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🐍 Python              ████████████████████░░  90%     │
-│  🗄️ SQL                 ██████████████████░░░░  85%     │
-│  📊 Power BI            ██████████████████░░░░  85%     │
-│  📈 Tableau             ████████████████░░░░░░  75%     │
-│  📗 Excel               █████████████████░░░░░  80%     │
-│  🤖 Machine Learning    ███████████████░░░░░░░  70%     │
-│  🧠 Deep Learning       ██████████░░░░░░░░░░░░  50%     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-> These percentages represent my current learning focus, not formal proficiency scores.
+| Certification                        | Provider             |
+| ------------------------------------ | -------------------- |
+| Data Analytics Training / Internship | CTTC, Bhubaneswar    |
+| 30 Days Power BI Micro Course        | SkillCourse          |
+| Microsoft Excel Beginners To Advance | SkillCourse          |
+| 30 Days SQL Micro Course             | SkillCourse          |
+| The AI MasterClass                   | Dhruv Rathee Academy |
 
 ---
 
-# 📈 GITHUB ANALYTICS
+## Learning Repositories
+
+<details>
+<summary><strong>Python</strong></summary>
+
+[Python Practice](https://github.com/skismailkhan256-source/Python-practice)
+
+Hands-on Python practice covering programming fundamentals and problem solving.
+
+</details>
+
+<details>
+<summary><strong>SQL</strong></summary>
+
+[SQL Practice](https://github.com/skismailkhan256-source/SQL-Practice)
+
+SQL queries and database practice focused on analytical problem solving.
+
+</details>
+
+<details>
+<summary><strong>Power BI</strong></summary>
+
+[Power BI Data Analytics](https://github.com/skismailkhan256-source/power-bi-data-analytics)
+
+Dashboard development and business intelligence practice.
+
+</details>
+
+<details>
+<summary><strong>Tableau</strong></summary>
+
+[Tableau Practice](https://github.com/skismailkhan256-source/Tableau-Practice)
+
+Data visualization and dashboard development practice.
+
+</details>
+
+<details>
+<summary><strong>Excel</strong></summary>
+
+[Microsoft Excel Practice](https://github.com/skismailkhan256-source/Microsoft-Excel-Practice)
+
+Excel-based analytical and reporting practice.
+
+</details>
+
+<details>
+<summary><strong>Problem Solving</strong></summary>
+
+[LeetCode Solutions](https://github.com/skismailkhan256-source/Leetcode-solutions)
+
+A collection of programming and problem-solving practice.
+
+</details>
+
+---
+
+## Other Projects
+
+| Project                        | Repository                                                                               |
+| ------------------------------ | ---------------------------------------------------------------------------------------- |
+| Todo List Web App              | [View](https://github.com/skismailkhan256-source/Todo-List-Web-App)                      |
+| Web Development Practice       | [View](https://github.com/skismailkhan256-source/Web-Development-Practice)               |
+| Backend Todo List              | [View](https://github.com/skismailkhan256-source/ismal-bakend-todolist)                  |
+| Movie Recommendation — College | [View](https://github.com/skismailkhan256-source/Movie-Recommendation-System-at-college) |
+| LeetCode Solutions             | [View](https://github.com/skismailkhan256-source/Leetcode-solutions)                     |
+
+---
+
+## Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skismailkhan256-source&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://img.shields.io/badge/Python-Active-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Advanced%20SQL-Active-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-Active-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Machine%20Learning-Active-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Deep%20Learning-Learning-8A2BE2?style=flat-square">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skismailkhan256-source&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=skismailkhan256-source&theme=tokyonight&hide_border=true" width="70%">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=skismailkhan256-source&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skismailkhan256-source&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
 </div>
 
 ---
 
-# 🏆 CONTRIBUTION JOURNEY
+## 2026 Focus
 
-<div align="center">
+My current focus is building a strong foundation for a career in **Data Analytics and Machine Learning**.
 
-<img src="https://github-profile-trophy.vercel.app/?username=skismailkhan256-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skismailkhan256-source&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/skismailkhan256-source/skismailkhan256-source/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+* Strengthen Python and advanced SQL
+* Build practical Power BI and Tableau dashboards
+* Develop stronger machine learning fundamentals
+* Create portfolio projects based on real-world problems
+* Improve problem-solving and coding skills
+* Continue contributing consistently to GitHub
 
 ---
 
-# 🎯 THE ROAD AHEAD
-
-```text
-DATA ANALYST
-     │
-     ├── Python
-     │     ├── Pandas
-     │     ├── NumPy
-     │     └── Visualization
-     │
-     ├── SQL
-     │     ├── Queries
-     │     ├── Joins
-     │     └── Analysis
-     │
-     ├── BI
-     │     ├── Power BI
-     │     ├── Tableau
-     │     └── Excel
-     │
-     └── MACHINE LEARNING
-           ├── Predictive Analytics
-           ├── Model Building
-           └── Model Evaluation
-```
-
----
-
-# 💭 MY PHILOSOPHY
-
-<div align="center">
-
-### **"Don't just learn the tool.**
-
-### **Learn what problem the tool can solve."**
-
-<br>
-
-**Learn → Practice → Build → Analyze → Share → Repeat**
-
-</div>
-
----
-
-# 🤝 LET'S CONNECT
+## Connect
 
 <div align="center">
 
 <a href="https://github.com/skismailkhan256-source">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-SK%20ISMAIL-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/sk-ismail-738bb736a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-SK%20ISMAIL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:skismailkhan256@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-skismailkhan256%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
-
-📍 **Odisha, India**
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⭐ If you find something interesting here, feel free to explore my repositories.
-
-<br>
-
-**SK ISMAIL**
-
-*Data Analytics • Machine Learning • Continuous Learning*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%">
 
 </div>
