@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="SK ISMAIL Data Analytics and Machine Learning"/>
+<img src="https://raw.githubusercontent.com/skismailkhan256-source/skismailkhan256-source/main/profile-banner.png"
+     width="100%"
+     alt="SK ISMAIL - Data Analytics and Machine Learning">
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Data+Analytics+%7C+Machine+Learning;Turning+Data+Into+Insights;Building+Practical+Data-Driven+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Excel;Data+Analytics+%7C+Machine+Learning;Turning+Data+Into+Insights;Building+Practical+Data-Driven+Solutions">
 
 <br><br>
 
@@ -328,7 +330,7 @@ Worked on practical data analysis, reporting and dashboard development tasks.
 
 <br><br>
 
-**Odisha, India**
+Odisha, India
 
 </div>
 
