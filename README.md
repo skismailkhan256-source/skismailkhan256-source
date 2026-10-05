@@ -13,6 +13,7 @@
   />
 </p>
 
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00B8FF&center=true&vCenter=true&width=900&lines=DATA+ANALYST;MACHINE+LEARNING+ENTHUSIAST;POWER+BI+%7C+PYTHON+%7C+SQL+%7C+EXCEL;BUILDING+DATA-DRIVEN+PROJECTS;TURNING+DATA+INTO+INSIGHTS"
