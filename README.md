@@ -115,7 +115,7 @@ Currently I am focused on building practical projects with Python, SQL, Power BI
 Pandas &nbsp; • &nbsp; NumPy &nbsp; • &nbsp; Matplotlib &nbsp; • &nbsp; Seaborn &nbsp; • &nbsp; Scikit-learn
 </p>
 
----
+
 
 ## Tools
 
